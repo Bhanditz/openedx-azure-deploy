@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy an Ubuntu VM in East US and install Open edX on it.",
+  "description": "This template allows you to deploy a simple Linux VM using a few different options for the Ubuntu version, using the latest patched version. This will deploy in East US on the specified VM size.",
+  "summary": "This template takes a minimum amount of parameters, deploys an Ubuntu VM, then installs Open edX. The whole provisioning process can take over an hour.",
+  "githubUsername": "tkeemon",
+  "dateUpdated": "2015-06-24"
+}

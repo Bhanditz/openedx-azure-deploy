@@ -1,0 +1,23 @@
+{
+    "newStorageAccountName": {
+        "value": "uniqueStorageAccount"
+    },
+    "adminUsername": {
+        "value": "userName"
+    },
+    "adminPassword": {
+        "value": "Password1."
+    },
+    "dnsNameForPublicIP": {
+        "value": "uniqueDNS"
+    },
+    "ubuntuOSVersion": {
+        "value": "12.04.5-LTS"
+    },
+	"location": {
+		"value": "East US"
+	},
+	"vmSize": {
+		"value": "Standard_D2"
+	},
+}
